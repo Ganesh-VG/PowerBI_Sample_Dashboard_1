@@ -1,7 +1,3 @@
-<img width="669" alt="Capture4" src="https://github.com/user-attachments/assets/86ebdab4-c892-4523-aa09-797eab72f583">Here’s a sample README file that you can use for your Power BI dashboard project on GitHub. This README covers an overview of the project, instructions for users to explore, and highlights the DAX functions you used, as well as placeholders for images.
-
----
-
 # Superstore Power BI Dashboard
 
 ### Overview
